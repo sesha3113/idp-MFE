@@ -44,8 +44,5 @@
     "eslint-plugin-react": "^7.32.2",
     "sass": "^1.62.0",
     "serverless-domain-manager": "^7.0.2"
-  },
-  "resolutions": {
-    "webpack": "5.1.3"
   }
 }
