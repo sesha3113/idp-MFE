@@ -1,0 +1,5 @@
+{
+  "components": {
+    "myNextApplication": "./node_modules/@sls-next/serverless-component"
+  }
+}
